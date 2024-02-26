@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.image {
+  height: 300px;
+  width: 400px;
+}
+li {
+  list-style-type: none;
+  font-family: 'Open Sans';
+  margin: 10px;
+}
+p {
+  font-size: 20px;
+  font-weight: bold;
+  text-align: left;
+}
